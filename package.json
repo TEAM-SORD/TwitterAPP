@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarahabimay/twitterapp.git"
+    "url": "https://github.com/TEAM-SORD/TwitterAPP.git"
   },
   "author": "sarah johnston",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sarahabimay/twitterapp/issues"
+    "url": "https://github.com/TEAM-SORD/TwitterAPP/issues"
   },
-  "homepage": "https://github.com/sarahabimay/twitterapp"
+  "homepage": "http://team-sord.github.io/TwitterAPP/"
 }
