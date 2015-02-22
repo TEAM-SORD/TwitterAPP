@@ -1,8 +1,8 @@
 {
-  "name": "myServerCSS",
+  "name": "TwitterAPP",
   "version": "1.0.0",
   "description": "twitter api stream",
-  "main": "myServerio",
+  "main": "myServerCSS.js",
   "dependencies": {
     "ecstatic": "^0.5.8",
     "fs": "0.0.2",
